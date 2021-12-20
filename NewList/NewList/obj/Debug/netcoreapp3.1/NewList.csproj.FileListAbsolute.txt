@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\C# Examples\MyList\NewList\NewList\obj\Debug\netcoreapp3.1\NewList.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\C# Examples\MyList\NewList\NewList\obj\Debug\netcoreapp3.1\NewList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\C# Examples\MyList\NewList\NewList\obj\Debug\netcoreapp3.1\NewList.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\C# Examples\MyList\NewList\NewList\obj\Debug\netcoreapp3.1\NewList.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\C# Examples\MyList\NewList\NewList\obj\Debug\netcoreapp3.1\NewList.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C# Examples\MyList\NewList\NewList\bin\Debug\netcoreapp3.1\NewList.exe
+C:\Users\ASUS\Desktop\C# Examples\MyList\NewList\NewList\bin\Debug\netcoreapp3.1\NewList.deps.json
+C:\Users\ASUS\Desktop\C# Examples\MyList\NewList\NewList\bin\Debug\netcoreapp3.1\NewList.runtimeconfig.json
+C:\Users\ASUS\Desktop\C# Examples\MyList\NewList\NewList\bin\Debug\netcoreapp3.1\NewList.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\C# Examples\MyList\NewList\NewList\bin\Debug\netcoreapp3.1\NewList.dll
+C:\Users\ASUS\Desktop\C# Examples\MyList\NewList\NewList\bin\Debug\netcoreapp3.1\NewList.pdb
+C:\Users\ASUS\Desktop\C# Examples\MyList\NewList\NewList\obj\Debug\netcoreapp3.1\NewList.dll
+C:\Users\ASUS\Desktop\C# Examples\MyList\NewList\NewList\obj\Debug\netcoreapp3.1\NewList.pdb
+C:\Users\ASUS\Desktop\C# Examples\MyList\NewList\NewList\obj\Debug\netcoreapp3.1\NewList.genruntimeconfig.cache
